@@ -1,2 +1,2 @@
 # studyKotlin
-study projects Kotlin
+study projects Kotlin from HyperSkill Academy
